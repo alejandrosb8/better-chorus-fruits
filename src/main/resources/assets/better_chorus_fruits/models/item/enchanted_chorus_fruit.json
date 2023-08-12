@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "better_chorus_fruits:item/enchanted_chorus_fruit"
+  }
+}

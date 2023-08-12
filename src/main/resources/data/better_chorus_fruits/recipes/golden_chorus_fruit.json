@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "#C#",
+    "###"
+  ],
+    "key": {
+        "#": {
+        "item": "minecraft:gold_ingot"
+        },
+        "C": {
+          "item": "minecraft:chorus_fruit"
+        }
+    },
+    "result": {
+        "item": "better_chorus_fruits:golden_chorus_fruit",
+        "count": 1
+    },
+  "show_notification": true
+}
